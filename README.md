@@ -20,27 +20,6 @@
 
 ---
 
-## 🎵 What is this?
-
-This is a simple Python script I made that applies a "Phonk Mode" theme to your Windows setup. It's perfect for when you need to lock in, code, or just enjoy a different vibe.
-
-I'm a student working on my **Master's in Computer Application (MCA)**, and I build projects like this for fun. If you like it, please consider [supporting my studies](https://nasifasayed.gumroad.com/coffee)!
-
-## ✨ Features
-
-*(**Note:** You should update this list with what your script *actually* does!)*
-
-* 🎨 **Changes Desktop Wallpaper:** Automatically sets a custom phonk-themed wallpaper.
-* 🎵 **Plays Phonk Music:** Launches a designated phonk track or playlist.
-* 💡 **[Another Feature]**: (e.g., Changes system color theme, mutes notifications, etc.)
-* 🔄 **Restores Settings:** (Add a feature or script to change back!)
-
-## 📺 Preview
-
-*(**Highly Recommended:** Record a short GIF or take a screenshot of it in action and replace the block below!)*
-
-![Phonk Mode Demo](https://i.imgur.com/your-demo-image-or-gif.gif)
-
 ## ⚙️ Requirements
 
 * Windows 10 / 11
@@ -51,24 +30,19 @@ I'm a student working on my **Master's in Computer Application (MCA)**, and I bu
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/](https://github.com/)[YourUsername]/[Your-Repo-Name].git
+    git clone [[https://github.com/](https://github.com/)[YourUsername]/[Your-Repo-Name].git](https://github.com/Samaanl/phonk-break-py)
     ```
 
 2.  **Navigate to the directory:**
     ```sh
-    cd [Your-Repo-Name]
+    cd phonk-break-py
     ```
 
 3.  **Install the required libraries:**
     ```sh
     pip install -r requirements.txt
     ```
-    *(If you don't have a `requirements.txt`, list the libraries here, e.g., `pip install simpleaudio`)*
 
-4.  **Prepare your files (optional):**
-    * Place your desired wallpaper in the folder and name it `wallpaper.jpg`.
-    * Place your music file in the folder and name it `music.mp3`.
-    * *(If your script already has these, you can skip this step)*
 
 5.  **Run the script:**
     ```sh
