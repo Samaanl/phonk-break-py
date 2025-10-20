@@ -24,7 +24,6 @@
 
 * Windows 10 / 11
 * Python 3.x
-* (Any other specific programs it needs)
 
 ## 🚀 Installation & Usage
 
