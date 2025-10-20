@@ -23,24 +23,10 @@ This directory should contain your phonk MP3 tracks.
 - **Length**: 10-15 second loops work perfectly
 - **Format**: MP3 for best compatibility
 - **Size**: Keep files under 1MB each for fast loading
-- **Vibe**: Choose tracks with that classic phonk sound - Memphis rap samples, cowbells, heavy bass
 
-## Where to Find Phonk Music:
-
-- **YouTube Audio Library** (royalty-free)
-- **Incompetech** (Creative Commons)
-- **FreePD** (public domain)
-- Make your own loops!
 
 ## Copyright Notice:
-
-Make sure any music you include is either:
-
-- Created by you
-- Licensed for use (Creative Commons, royalty-free, etc.)
-- Public domain
-
-This is required for Chrome Web Store compliance!
+these phonks are are not mine and i don't own any rights of them. If you are thier creator then please message me if you want to remove it
 
 ---
 
