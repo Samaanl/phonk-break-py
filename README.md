@@ -9,12 +9,12 @@
   </a>
   
   <br/>
-  <a href="https://nasifasayed.gumroad.com/coffee" target="_blank"> <img src="https://img.shields.io/badge/Python-3.x-blue.svg?style=flat&logo=python" alt="Python 3.x"></a>
-  
-  <a href="https://nasifasayed.gumroad.com/coffee" target="_blank"><img src="https://img.shields.io/badge/Platform-Windows-0078D6.svg?style=flat&logo=windows" alt="Windows"> </a>
+  <div >
+  <a href="https://nasifasayed.gumroad.com/coffee" target="_blank"> <img src="https://img.shields.io/badge/Python-3.x-blue.svg?style=flat&logo=python" alt="Python 3.x"></a><a href="https://nasifasayed.gumroad.com/coffee" target="_blank"><img src="https://img.shields.io/badge/Platform-Windows-0078D6.svg?style=flat&logo=windows" alt="Windows"> </a>
+
   
   <a href="https://nasifasayed.gumroad.com/coffee" target="_blank"><img src="https://img.shields.io/badge/License-MIT-purple.svg?style=flat" alt="License: MIT"> </a>
-  
+  </div>
 
 </div>
 
