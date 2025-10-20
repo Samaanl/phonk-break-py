@@ -30,7 +30,7 @@
 
 1.  **Clone the repository:**
     ```sh
-    git clone [[https://github.com/](https://github.com/)[YourUsername]/[Your-Repo-Name].git](https://github.com/Samaanl/phonk-break-py)
+    git clone https://github.com/Samaanl/phonk-break-py
     ```
 
 2.  **Navigate to the directory:**
