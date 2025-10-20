@@ -57,9 +57,7 @@ This project is free and open-source. If it gave you a good vibe, please conside
   <img src="https://img.shields.io/badge/Support My Master's Degree!-FFDD00?style=for-the-badge&logo=gumroad" alt="Buy Me A Coffee" />
 </a>
 
-## 📜 License
 
-This project is distributed under the MIT License. See the `LICENSE` file for more information.
 
 
 
