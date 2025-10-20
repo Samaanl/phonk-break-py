@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Windows Phonk Mode 🚗💨</h1>
+  <h1>Windows Phonk Mode </h1>
   
   <p>A Python script to turn your entire Windows PC into a Phonk-fueled vibe machine.</p>
 
