@@ -9,10 +9,12 @@
   </a>
   
   <br/>
+  <a href="https://nasifasayed.gumroad.com/coffee" target="_blank"> <img src="https://img.shields.io/badge/Python-3.x-blue.svg?style=flat&logo=python" alt="Python 3.x"></a>
   
-  <img src="https://img.shields.io/badge/Python-3.x-blue.svg?style=flat&logo=python" alt="Python 3.x">
-  <img src="https://img.shields.io/badge/Platform-Windows-0078D6.svg?style=flat&logo=windows" alt="Windows">
-  <img src="https://img.shields.io/badge/License-MIT-purple.svg?style=flat" alt="License: MIT">
+  <a href="https://nasifasayed.gumroad.com/coffee" target="_blank"><img src="https://img.shields.io/badge/Platform-Windows-0078D6.svg?style=flat&logo=windows" alt="Windows"> </a>
+  
+  <a href="https://nasifasayed.gumroad.com/coffee" target="_blank"><img src="https://img.shields.io/badge/License-MIT-purple.svg?style=flat" alt="License: MIT"> </a>
+  
 
 </div>
 
@@ -70,7 +72,7 @@ I'm a student working on my **Master's in Computer Application (MCA)**, and I bu
 
 5.  **Run the script:**
     ```sh
-    python phonk_mode.py
+    python phonk_break_desktop.py
     ```
 
 ## ☕ Support Me
@@ -85,13 +87,5 @@ This project is free and open-source. If it gave you a good vibe, please conside
 
 This project is distributed under the MIT License. See the `LICENSE` file for more information.
 
-how to run
-1)you must have python installed
 
-then go into the folder where you  have the "phonk-break-py" and
-2)install all the dependencies mentioned in the requirements file
-
-once you are done with it
-
-stay where you at and run "python phonk_break_desktop.py"
 
