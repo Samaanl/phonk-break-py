@@ -5,7 +5,7 @@
   <p>A Python script to turn your entire Windows PC into a Phonk-fueled vibe machine.</p>
 
   <a href="https://nasifasayed.gumroad.com/coffee" target="_blank">
-    <img src="https://img.shields.io/badge/Buy me a coffee-Support My Studies-FFDD00?style=for-the-badge&logo=gumroad" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Support My Master's Degree!-FFDD00?style=for-the-badge&logo=gumroad" alt="Buy Me A Coffee" />
   </a>
   
   <br/>
@@ -54,7 +54,7 @@
 This project is free and open-source. If it gave you a good vibe, please consider supporting my education! I'm a full-time MCA student, and any support goes directly toward my tuition fees and helps me build more cool stuff.
 
 <a href="https://nasifasayed.gumroad.com/coffee" target="_blank">
-  <img src="https://img.shields.io/badge/Buy me a coffee-Support My Studies-FFDD00?style=for-the-badge&logo=gumroad" alt="Buy Me A Coffee" />
+  <img src="https://img.shields.io/badge/Support My Master's Degree!-FFDD00?style=for-the-badge&logo=gumroad" alt="Buy Me A Coffee" />
 </a>
 
 ## 📜 License
